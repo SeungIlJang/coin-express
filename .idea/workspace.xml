@@ -2,46 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9140802-b416-4d06-b9a7-136e894755f5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Coin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/CoinExchange.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Exchange.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/GlobalStyles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Loader.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Market.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Price.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Router.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Screens/Coins/CoinsContainer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Screens/Coins/CoinsPresenter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Screens/Coins/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Screens/CoinsExchanges/CoinsExchangesContainer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Screens/CoinsExchanges/CoinsExchangesPresenter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Screens/CoinsExchanges/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Screens/CoinsMarkets/CoinsMarketsContainer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Screens/CoinsMarkets/CoinsMarketsPresenter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Screens/CoinsMarkets/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Screens/Detail/DetailContainer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Screens/Detail/DetailPresenter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Screens/Detail/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Screens/Exchanges/ExchangesContainer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Screens/Exchanges/ExchangesPresenter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Screens/Exchanges/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Screens/Prices/PricesContainer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Screens/Prices/PricesPresenter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Screens/Prices/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/api.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/serviceWorker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +21,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Screens" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -123,7 +84,8 @@
       <updated>1574691645183</updated>
       <workItem from="1574691648482" duration="27286000" />
       <workItem from="1574958486818" duration="4356000" />
-      <workItem from="1575022187564" duration="1002000" />
+      <workItem from="1575022187564" duration="1635000" />
+      <workItem from="1575164593357" duration="658000" />
     </task>
     <servers />
   </component>
